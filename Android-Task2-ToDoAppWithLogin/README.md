@@ -11,6 +11,22 @@ A secure local To-Do list manager for Android featuring user authentication, pas
 - **Complete CRUD Operations**: Users can add tasks, edit existing task details, mark tasks as complete/incomplete, and delete tasks.
 - **Empty State UX**: Beautiful fallback messaging when there are no tasks in the list.
 
+## Screenshots
+
+<p align="center">
+  <img src="asset/st1.jpg" width="160" />
+  <img src="asset/st2.jpg" width="160" />
+  <img src="asset/st3.jpg" width="160" />
+  <img src="asset/st4.jpg" width="160" />
+  <img src="asset/st5.jpg" width="160" />
+  <img src="asset/st6.jpg" width="160" />
+  <img src="asset/st7.jpg" width="160" />
+  <img src="asset/st8.jpg" width="160" />
+  <img src="asset/st9.jpg" width="160" />
+  <img src="asset/st10.jpg" width="160" />
+  <img src="asset/st11.jpg" width="160" />
+</p>
+
 ## Tech Stack
 - **Languages**: Java, XML
 - **Minimum SDK**: 24

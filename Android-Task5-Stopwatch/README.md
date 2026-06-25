@@ -9,6 +9,15 @@ A precision Stopwatch application for Android built with Java, XML, and standard
 - **Background Protection**: Temporarily pauses UI thread execution in `onPause` and resynchronizes with `SystemClock.elapsedRealtime()` during `onResume` to preserve battery while maintaining timing accuracy.
 - **Clean Button States**: Buttons automatically transition between Start/Pause/Reset/Lap functions depending on timer activity.
 
+## Screenshots
+
+<p align="center">
+  <img src="asset/s1.jpg" width="180" />
+  <img src="asset/s2.jpg" width="180" />
+  <img src="asset/s3.jpg" width="180" />
+  <img src="asset/s4.jpg" width="180" />
+</p>
+
 ## Tech Stack
 - **Languages**: Java, XML
 - **Minimum SDK**: 24

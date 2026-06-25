@@ -9,6 +9,13 @@ A beautiful, dark-themed mathematical expression calculator for Android built wi
 - **Consecutive Operator Logic**: Standard operator substitution (e.g. typing `5 +` and then `*` automatically replaces `+` with `*`).
 - **Interactive UI**: Horizontal scrolling for lengthy expressions, Apple-inspired dark palette layout, and responsive key sizing.
 
+## Screenshots
+
+<p align="center">
+  <img src="asset/c1.jpg" width="180" />
+  <img src="asset/c2.jpg" width="180" />
+</p>
+
 ## Tech Stack
 - **Languages**: Java, XML
 - **Minimum SDK**: 24

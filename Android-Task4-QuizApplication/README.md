@@ -11,6 +11,16 @@ A modern multiple-choice General Knowledge Quiz Application for Android built wi
 - **User Progression**: Displays progress percentage using a smooth ProgressBar and shows current page numbers ("Question X of 10").
 - **Final Scoring Card**: Displays percentage, fractional counts of correct and incorrect answers, and a restart button to clear the state and play again.
 
+## Screenshots
+
+<p align="center">
+  <img src="asset/q1.jpg" width="180" />
+  <img src="asset/q2.jpg" width="180" />
+  <img src="asset/q3.jpg" width="180" />
+  <img src="asset/q4.jpg" width="180" />
+  <img src="asset/q5.jpg" width="180" />
+</p>
+
 ## Tech Stack
 - **Languages**: Java, XML
 - **Minimum SDK**: 24

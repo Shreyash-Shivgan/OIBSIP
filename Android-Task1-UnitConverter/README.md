@@ -9,6 +9,16 @@ A professional Unit Converter application for Android built with Java and XML.
 - **Accurate Conversions**: Precise conversions utilizing well-defined constants and base unit normalization (meters, grams, Celsius).
 - **Modern UI**: Styled card views with custom indigo-teal accent tones.
 
+## Screenshots
+
+<p align="center">
+  <img src="asset/uc1.jpg" width="180" alt="Unit Converter Splash/Home" />
+  <img src="asset/uc2.jpg" width="180" alt="Length Converter" />
+  <img src="asset/uc3.jpg" width="180" alt="Weight Converter" />
+  <img src="asset/uc4.jpg" width="180" alt="Temperature Converter" />
+  <img src="asset/uc5.jpg" width="180" alt="Validation Error" />
+</p>
+
 ## Tech Stack
 - **Languages**: Java, XML
 - **Minimum SDK**: 24
