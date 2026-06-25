@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">General Knowledge Quiz</string>
+    <string name="welcome_title">Welcome to the Quiz!</string>
+    <string name="welcome_subtitle">Test your General Knowledge with 10 random questions.</string>
+    <string name="btn_start_quiz">Start Quiz</string>
+    <string name="btn_restart_quiz">Restart Quiz</string>
+    <string name="title_results">Quiz Completed!</string>
+    <string name="label_score">Your Score</string>
+    <string name="label_correct">Correct Answers:</string>
+    <string name="label_incorrect">Incorrect Answers:</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2196F3</color> <!-- Blue -->
+    <color name="primary_dark">#121212</color>
+    <color name="accent">#00E5FF</color>
+    <color name="background">#121212</color> <!-- Dark theme background -->
+    <color name="display_background">#1C1C1E</color>
+    <color name="btn_number">#2C2C2E</color>
+    <color name="btn_operator">#FF9F0A</color> <!-- Apple-style Orange -->
+    <color name="btn_action">#8E8E93</color>
+    <color name="text_number">#FFFFFF</color>
+    <color name="text_operator">#FFFFFF</color>
+    <color name="text_action">#000000</color>
+    <color name="error">#FF453A</color>
+</resources>

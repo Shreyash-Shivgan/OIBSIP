@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="category_hint">Select Category</string>
+    <string name="from_unit_hint">From Unit</string>
+    <string name="to_unit_hint">To Unit</string>
+    <string name="input_hint">Enter value to convert</string>
+    <string name="btn_convert">Convert</string>
+    <string name="result_label">Result</string>
+</resources>

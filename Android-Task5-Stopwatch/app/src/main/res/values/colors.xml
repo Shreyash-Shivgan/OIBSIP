@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1C1B1F</color>
+    <color name="primary_dark">#000000</color>
+    <color name="accent">#2196F3</color> <!-- Blue accent -->
+    <color name="background">#F8F9FA</color>
+    <color name="card_background">#FFFFFF</color>
+    
+    <color name="btn_start">#4CAF50</color>
+    <color name="btn_pause">#FF9800</color>
+    <color name="btn_reset">#E53935</color>
+    <color name="btn_lap">#757575</color>
+    
+    <color name="text_primary">#1C1B1F</color>
+    <color name="text_secondary">#49454F</color>
+    <color name="gray_light">#E0E0E0</color>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Precision Stopwatch</string>
+    <string name="default_time">00:00:00</string>
+    <string name="default_ms">.00</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_lap">Lap</string>
+    <string name="empty_laps">No laps recorded yet</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Secure To-Do</string>
+    <string name="title_login">Login to Secure To-Do</string>
+    <string name="title_register">Create New Account</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="switch_to_register">Don\'t have an account? Register here</string>
+    <string name="switch_to_login">Already have an account? Login here</string>
+    <string name="empty_tasks">No tasks added yet!</string>
+    <string name="title_add_task">Add New Task</string>
+    <string name="title_edit_task">Edit Task</string>
+    <string name="hint_task_title">Task Title</string>
+    <string name="hint_task_notes">Notes / Details</string>
+    <string name="btn_save_task">Save Task</string>
+    <string name="btn_logout">Logout</string>
+</resources>
